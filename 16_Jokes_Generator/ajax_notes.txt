@@ -1,0 +1,23 @@
+1) to get mock data
+  https://mockaroo.com/
+  
+2) to host json data online
+  http://myjson.com/  
+  
+3) Test AJAX 
+  https://randomuser.me/
+
+4) http://www.icndb.com/api/
+
+	http://api.icndb.com/jokes/random/100
+
+5) github api
+	https://api.github.com/users/thenaveensaggam
+
+6) Node JS : Mongo DB Cloud
+
+
+
+
+
+  
